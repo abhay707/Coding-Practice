@@ -4,17 +4,20 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhay707/Coding-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhay707/Coding-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
