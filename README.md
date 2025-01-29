@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
