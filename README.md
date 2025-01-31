@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -66,10 +68,19 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhay707/Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/abhay707/Coding-Practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhay707/Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhay707/Coding-Practice/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
