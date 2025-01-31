@@ -10,18 +10,9 @@
  */
 class Solution {
 public:
-    int length(ListNode* head){
-        int cnt = 0;
-        ListNode* cur = head;
-        while(cur){
-            cur = cur->next;
-            cnt++;
-        }
-        return cnt;
-    }
     
     ListNode* midPoint(ListNode* head){
-        if(length(head) < 2) return head;
+        if(!head && !head->next) return head;
         ListNode* fast = head;
         ListNode* slow = head;
         ListNode* prev = nullptr;
