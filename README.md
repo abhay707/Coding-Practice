@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/abhay707/Coding-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3429-special-array-i](https://github.com/abhay707/Coding-Practice/tree/master/3429-special-array-i) |
 ## Union Find
 |  |
 | ------- |
