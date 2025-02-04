@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
@@ -94,9 +95,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
