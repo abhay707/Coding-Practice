@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 | [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhay707/Coding-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 | [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abhay707/Coding-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -97,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 ## Stack
 |  |
 | ------- |
