@@ -98,16 +98,30 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
