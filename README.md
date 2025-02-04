@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhay707/Coding-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/abhay707/Coding-Practice/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/abhay707/Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abhay707/Coding-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
