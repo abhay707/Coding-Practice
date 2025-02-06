@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/abhay707/Coding-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhay707/Coding-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhay707/Coding-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
