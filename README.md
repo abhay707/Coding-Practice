@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/abhay707/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/abhay707/Coding-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhay707/Coding-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhay707/Coding-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/abhay707/Coding-Practice/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhay707/Coding-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhay707/Coding-Practice/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/abhay707/Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhay707/Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
