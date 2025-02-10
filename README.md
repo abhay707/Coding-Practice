@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/abhay707/Coding-Practice/tree/master/0394-decode-string) |
+| [0886-score-of-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0886-score-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/abhay707/Coding-Practice/tree/master/0394-decode-string) |
+| [0886-score-of-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
