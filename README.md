@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Math
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/abhay707/Coding-Practice/tree/master/2434-design-a-number-container-system) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
