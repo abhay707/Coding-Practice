@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/abhay707/Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhay707/Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhay707/Coding-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhay707/Coding-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhay707/Coding-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/abhay707/Coding-Practice/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhay707/Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhay707/Coding-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhay707/Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/abhay707/Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhay707/Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhay707/Coding-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
