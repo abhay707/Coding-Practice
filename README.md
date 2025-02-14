@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/abhay707/Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay707/Coding-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/abhay707/Coding-Practice/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhay707/Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhay707/Coding-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhay707/Coding-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhay707/Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhay707/Coding-Practice/tree/master/0096-unique-binary-search-trees) |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhay707/Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhay707/Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhay707/Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/abhay707/Coding-Practice/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/abhay707/Coding-Practice/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/abhay707/Coding-Practice/tree/master/0886-score-of-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhay707/Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhay707/Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
